@@ -1,2 +1,2 @@
 # jiffy_configs_public
-jiffy public configs
+This is a template for jiffy public directories
